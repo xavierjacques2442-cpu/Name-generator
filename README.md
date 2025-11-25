@@ -2,7 +2,7 @@
 
  // Date Revised: 11/25/25 
 
- // RNG
+ //RNG
 
  // A random name generator that show the 5 names that was before
 
