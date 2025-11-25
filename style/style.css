@@ -78,3 +78,7 @@ h1, h2 {
 .newcolor{
 color: rgb(14, 40, 241);
 }
+
+.coolcolor{
+    color: chartreuse;
+}
