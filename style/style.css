@@ -1,0 +1,80 @@
+.h1{
+    color: rgb(234, 81, 15)
+}
+
+.body {
+  background-image: url('../image/background.jpeg');
+  background-size: cover;        /* Fills the entire screen */
+  background-position: center;   /* Center the image */
+  background-repeat: no-repeat;  /* Prevent tiling */
+  background-attachment: fixed;  /* Makes it look cleaner on desktop */
+  min-height: 100vh;             /* Fill full screen height */
+}
+
+.btn-color{
+    background-color: black;
+    color: rgb(192, 0, 0);
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.color{
+    color: rgb(255, 179, 3);
+}
+
+h1, h2 {
+  margin: 20px 10px;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {  
+  h1, h2 {
+    font-size: 16px;
+  }
+
+  #userBtn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) { 
+  h1, h2 {
+    font-size: 12px;
+  }
+
+  #userBtn {
+    padding: 8px 15px;
+    font-size: 12px;
+  }
+}
+
+#historyList {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+#historyList li {
+  margin: 12px 0;        
+  padding: 8px 0;       
+}
+
+.newcolor{
+color: rgb(14, 40, 241);
+}
