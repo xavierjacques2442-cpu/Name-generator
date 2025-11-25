@@ -1,0 +1,154 @@
+{
+  "students": [
+    {
+        "firstName": "Arianna",
+        "lastName": "Huntley",
+        "emailCode": "ahuntley@codestack.co",
+        "emailPersonal": "clair10022004@gmail.com"
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Estrada",
+        "emailCode": "bestrada@codestack.co",
+        "emailPersonal": "bestrada8800@gmail.com"
+    },
+      {
+        "firstName": "Brandon",
+        "lastName": "Van Horn",
+        "emailCode": "bmdvanhorn@codestack.co",
+        "emailPersonal": "bmdvanhorn@icloud.com"
+    },
+    {
+        "firstName": "Bryce",
+        "lastName": "Mack",
+        "emailCode": "bmack@codestack.co",
+        "emailPersonal": "brycewmack50@outlook.com"
+    },
+    {
+        "firstName": "Carlos",
+        "lastName": "Lopez",
+        "emailCode": "clopez@codestack.co",
+        "emailPersonal": "carlos.lopez5639@gmail.com"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Herrera",
+        "emailCode": "dherrera@codestack.co",
+        "emailPersonal": "dherr929@gmail.com"
+    },
+    {
+        "firstName": "Darcy",
+        "lastName": "Rose",
+        "emailCode": "drose@codestack.co",
+        "emailPersonal": "darcy.ophelia.rose@gmail.com"
+    },
+     {
+        "firstName": "Eliasaf",
+        "lastName": "Gonzalez",
+        "emailCode": "N/A",
+        "emailPersonal": "eliasafgonzalez0@gmail.com"
+     },
+     {
+        "firstName": "Gavin",
+        "lastName": "Tristan",
+        "emailCode": "gtristan@codestack.co",
+        "emailPersonal": "gaqtristan@gmail.com"
+     },
+      {
+        "firstName": "Isaias",
+        "lastName": "Gonzalez",
+        "emailCode": "gigonzalez@codestack.co",
+        "emailPersonal": "ijgggr@gmail.com"
+     },
+      {
+        "firstName": "James",
+        "lastName": "Blackwell",
+        "emailCode": "jblackwell@codestack.co",
+        "emailPersonal": "bwelljames@gmail.com"
+     },
+      {
+        "firstName": "Jesus",
+        "lastName": "Salgado",
+        "emailCode": "jsalgado@codestack.co",
+        "emailPersonal": "jesussalgado9040@gmail.com"
+     },
+      {
+        "firstName": "Joseph",
+        "lastName": "Duarte",
+        "emailCode": "jduarte@codestack.co",
+        "emailPersonal": "Duartemjoseph@gmail.com"
+     },
+ {
+        "firstName": "Kellen",
+        "lastName": "Dixon",
+        "emailCode": "kdixon@codestack.co",
+        "emailPersonal": "kellendixon2007@gmail.com"
+     },
+      {
+        "firstName": "Lucas",
+        "lastName": "Guptill",
+        "emailCode": "lguptil@codestack.co",
+        "emailPersonal": "fabledparadox@gmail.com"
+     },
+      {
+        "firstName": "Nicolas",
+        "lastName": "Gonzaba",
+        "emailCode": "ngonzaba@codestack.co",
+        "emailPersonal": "NicolasGonzaba1@gmail.com"
+     },
+      {
+        "firstName": "Pallavi",
+        "lastName": "Pattanashetti",
+        "emailCode": "ppattanashetti@codestack.co",
+        "emailPersonal": "Pallavi.Pattanashetti@gmail.com"
+     },
+      {
+        "firstName": "Rizwan",
+        "lastName": "Mehmoo",
+        "emailCode": "N/A",
+        "emailPersonal": "rm.pkusa@gmail.com"
+     },
+      {
+        "firstName": "Sammer",
+        "lastName": "Saqa",
+        "emailCode": "ssaqa@codestack.co",
+        "emailPersonal": "sammersaqa@gmail.com"
+     },
+      {
+        "firstName": "Vanessa",
+        "lastName": "Acuna",
+        "emailCode": "vacuna@codestack.com",
+        "emailPersonal": "vanessa.acuna98@gmail.com"
+     },
+      {
+        "firstName": "Xavier",
+        "lastName": "Jacques",
+        "emailCode": "xjacques@codestack.co",
+        "emailPersonal": "xavierjacques2442@gmail.com"
+     },
+      {
+        "firstName": "Kenneth",
+        "lastName": "Martinez",
+        "emailCode": "kmartinez@codestack.co",
+        "emailPersonal": "kmartinez@sjcoe.net"
+     },
+      {
+        "firstName": "Isaiah",
+        "lastName": "Ferguson",
+        "emailCode": "iferguson@codestack.co",
+        "emailPersonal": "ifergusonIII@sjcoe.net"
+     },
+      {
+        "firstName": "Jose",
+        "lastName": "Martinez",
+        "emailCode": "jmartinez@codestack.co",
+        "emailPersonal": "jmartinez@sjcoe.net"
+     },
+      {
+        "firstName": "Jacob",
+        "lastName": "Dekok",
+        "emailCode": "jdekok@codestack.co",
+        "emailPersonal": "jdekok@sjcoe.net"
+     }
+  ] 
+}
